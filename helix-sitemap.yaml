@@ -1,0 +1,10 @@
+version: 1
+sitemaps:
+  board:
+    origin: https://main--haki-eds-demo--vasilijauzunova.hlx.live
+    default: en
+    languages:
+      en:
+        source: /query-index.json
+        destination: /sitemap.xml
+        hreflang: en

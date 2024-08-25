@@ -1,6 +1,11 @@
 {
   "mappings": [
     "/content/haki-eds-demo/:/",
-    "/content/haki-eds-demo/configuration:/.helix/config.json"
+    "/content/haki-eds-demo/configuration:/.helix/config.json",
+    "/content/haki-eds-demo/nav:/nav",
+    "/content/haki-eds-demo/footer:/footer",
+    "/content/haki-eds-demo/metadata:/metadata.json",
+    "/content/haki-eds-demo/configuration:/configuration.json",
+    "/content/haki-eds-demo/placeholders:/placeholders.json"
   ]
 }
